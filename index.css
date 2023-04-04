@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+
+nav {
+    margin-top: 40px;
+}
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.navbar_list {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-left: 200px;
+}
+
+
+.zakab {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.zakab img {
+    width: 40%;
+}
+
+.zakab span {
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #666666;
+}
+
+.zakab h2 {
+    margin-top: 10px;
+    font-size: 42px;
+    color: #000;
+}
+
+.zakab p {
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #25202F;
+    margin-top: 10px;
+}
+
+.zakab button {
+    background: #8643DC;
+    border-radius: 100px;
+    padding: 15px 30px;
+    border: none;
+    margin-top: 50px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.section2 {
+    width: 1140px;
+    margin: auto;
+}
+
+.left_text_all {
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #25202F;
+}
+
+.card {
+    width: 330px;
+    margin-top: 50px;
+}
+
+.left_image_card {
+    display: flex;
+    align-items: center;
+}
+
+.text_ui {
+    padding-left: 20px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #25202F;
+}
+
+.text_paragraf {
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #47444E;
+    padding-top: 20px;
+    line-height: 28px;
+}
+
+.card_father {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.father {
+    display: flex;
+
+}
+
+
+.imges2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.imges2 img{
+    width: 20%;
+}
+.left_text_all3 {
+    font-family: 'Red Hat Display';
+    font-weight: 700;
+    font-size: 36px;
+    color: #25202F;
+    margin-top: 20px;
+    margin-left: 30px;
+}
